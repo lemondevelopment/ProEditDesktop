@@ -26,7 +26,7 @@ namespace code_editor_2
             richTextBox1.Clear();
         }
 
-		// this opens a file and reads to richtextbox1
+	
         private void openToolStripButton_Click(object sender, EventArgs e)
         {
             OpenFileDialog openfile = new OpenFileDialog();
